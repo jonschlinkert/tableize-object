@@ -49,17 +49,17 @@
     ],
     "related": {
       "list": [
-        "stringify-keys",
-        "isobject",
-        "expand-object",
         "collapse-object",
+        "expand-object",
         "get-value",
-        "set-value"
+        "isobject",
+        "set-value",
+        "stringify-keys"
       ]
     },
     "reflinks": [
-      "verb",
-      "tableize"
+      "tableize",
+      "verb"
     ],
     "lint": {
       "reflinks": true
